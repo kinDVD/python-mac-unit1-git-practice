@@ -98,10 +98,29 @@ dvd@Dvds-MBP unit1-git-practice % rm -r drinks
 
 
 ### Step 4
-
+dvd@Dvds-MBP ~ % cd Desktop/unit1-git-practice
+dvd@Dvds-MBP unit1-git-practice % git init
+dvd@Dvds-MBP unit1-git-practice % git add .
+dvd@Dvds-MBP unit1-git-practice % git commit -m 'first commit'
 
 ### Step 5
+dvd@Dvds-MBP unit1-git-practice % git remote add origin https://github.com/kingdvd/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
+error: remote origin already exists.
+Username for 'https://github.com': kingdvd
+Password for 'https://kingdvd@github.com': 
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (10/10), 1.76 KiB | 902.00 KiB/s, done.
+Total 10 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/kingdvd/unit1-git-practice.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
 
 ### Step 6
 
