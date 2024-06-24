@@ -1,0 +1,110 @@
+### Step 2A
+/Users/dvd
+
+### Step 2B
+dvd@Dvds-MBP Desktop % 
+
+### Step 2C
+dvd@Dvds-MBP unit1-git-practice % 
+
+### Step 2D
+/Users/dvd/Desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd /
+
+	#or#
+
+dvd@Dvds-MBP unit1-git-practice % cd
+dvd@Dvds-MBP ~ % cd ..
+dvd@Dvds-MBP /Users % cd ..
+dvd@Dvds-MBP / %
+
+### Step 2H
+/
+
+### Step 2I
+Applications	Volumes		etc		sbin
+Library		bin		home		tmp
+System		cores		opt		usr
+Users		dev		private		var
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd /Users/dvd/Desktop/unit1-git-practice
+
+
+### Step 3A
+dvd@Dvds-MBP unit1-git-practice % mkdir veggies
+dvd@Dvds-MBP unit1-git-practice % mkdir meats
+dvd@Dvds-MBP unit1-git-practice % mkdir desserts
+
+
+### Step 3B
+dvd@Dvds-MBP unit1-git-practice % mv desserts sweets
+
+
+### Step 3C
+dvd@Dvds-MBP unit1-git-practice % mkdir proteins
+
+
+### Step 3D
+dvd@Dvds-MBP unit1-git-practice % mv meats proteins
+
+### Step 3E
+dvd@Dvds-MBP unit1-git-practice % cd veggies
+dvd@Dvds-MBP veggies % touch carrot.txt
+dvd@Dvds-MBP veggies % touch pea.txt
+
+### Step 3F
+dvd@Dvds-MBP veggies % cd ..
+dvd@Dvds-MBP unit1-git-practice % cd sweets
+dvd@Dvds-MBP sweets % touch cookie.txt
+
+### Step 3G
+dvd@Dvds-MBP sweets % mv cookie.txt donut.tx
+
+### Step 3H
+dvd@Dvds-MBP sweets % cd ..
+dvd@Dvds-MBP unit1-git-practice % touch thing.txt
+
+### Step 3I
+dvd@Dvds-MBP unit1-git-practice % cp thing.txt tofu.txt
+
+### Step 3J
+dvd@Dvds-MBP unit1-git-practice % mv tofu.txt proteins
+
+### Step 3K
+dvd@Dvds-MBP unit1-git-practice % cp thing.txt crab.txt
+dvd@Dvds-MBP unit1-git-practice % mv crab.txt proteins/meats
+
+### Step 3L
+dvd@Dvds-MBP unit1-git-practice % rm thing.txt
+
+### Step 3M
+dvd@Dvds-MBP unit1-git-practice % cp -r veggies plants
+
+### Step 3N
+dvd@Dvds-MBP unit1-git-practice % mkdir drinks
+dvd@Dvds-MBP unit1-git-practice % rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
